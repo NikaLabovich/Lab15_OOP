@@ -1,0 +1,7 @@
+C:\Users\veranikalabovich\source\repos\oop15\oop15\bin\Debug\oop15.exe.config
+C:\Users\veranikalabovich\source\repos\oop15\oop15\bin\Debug\oop15.exe
+C:\Users\veranikalabovich\source\repos\oop15\oop15\bin\Debug\oop15.pdb
+C:\Users\veranikalabovich\source\repos\oop15\oop15\obj\Debug\oop15.csprojAssemblyReference.cache
+C:\Users\veranikalabovich\source\repos\oop15\oop15\obj\Debug\oop15.csproj.CoreCompileInputs.cache
+C:\Users\veranikalabovich\source\repos\oop15\oop15\obj\Debug\oop15.exe
+C:\Users\veranikalabovich\source\repos\oop15\oop15\obj\Debug\oop15.pdb
